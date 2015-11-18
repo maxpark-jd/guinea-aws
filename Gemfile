@@ -31,7 +31,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+gem 'jquery-ui-rails'
 gem 'supportability', '0.0.18', source: 'https://t2b39bft24fiTyhmF2p5@gem.fury.io/janeiro/'
 gem 'devise'
 
